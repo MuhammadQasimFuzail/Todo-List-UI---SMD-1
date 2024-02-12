@@ -1,6 +1,7 @@
 # TODO List UI 
 ## Software For Mobile Devices Classwork #2
-### Group; 20K-0157, 20K1731,	20K0201.
+### Group; 20K-0157 Qasim , 20K1731 Zain,	20K0201 Owais.
+
 
 A new Flutter project.
 
